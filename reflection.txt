@@ -1,0 +1,12 @@
+How has your knowledge of the tech field changed since class began?
+        -----I understand a lot more lingo now and feel like I can hold my end of a techy conversation. I also know more about the history of technology and how far we have come with it and I appreciate it a lot more now.
+What was the most difficult part of Foundations for you? And how did you overcome that?
+        -----The most difficult part of foundations for me was trying to remember everything that we have learned to use in my capstone project. I am so so glad that I have organized folders and files and was able to go back and find my notes on everything.
+Did you learn anything about the way you learn? What was it?
+        -----I learned that I need to see what I am learning in front of me for me to be able to really understand it. Just the slides or a text example are not going to cut it for my learning. 
+How will you apply what you know about your learning style during Specializations?
+        -----I am going to make sure I follow along with the presentations and code along. And also watch the presentations as many times as I need to.
+What was your experience with pair programming like?
+        -----I loved pair programming. It was so fun to be able to help my peers understand concepts that I knew and get help from them in areas I was lacking. I learned better and retained more information that way.
+What parts of Foundations did you enjoy the most? (This could be anything from a specific lab or lecture to the general setup of class or a funny moment.)
+        -----Something I really loved doing was in the first few weeks we had an assessment that was creating our own website and adding pictures and stuff to it. I reall enjoyed this because I could see my work and my progress. I truly loved it. I also loved getting to know the backend of websites and using axios. 
